@@ -16,7 +16,7 @@ A maltose standard curve was constructed and spectrophotometric absorbance value
 ![Standard Curve](maltose_standard_curve_DNS.png)
 
 ## Salivary Amylase Activity
-![Amylase Activity](Picture2.png)
+![amylase_bar_graph.png](Picture2.png)
 
 
 ## Data Analysis
