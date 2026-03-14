@@ -11,6 +11,13 @@ A maltose standard curve was constructed and spectrophotometric absorbance value
 3. Measurement of absorbance at 540 nm
 4. Construction of maltose calibration curve
 5. Analysis of salivary amylase activity
+ 
+## Maltose Standard Curve
+![Standard Curve](maltose_standard_curve_DNS.png)
+
+## Salivary Amylase Activity
+![Amylase Activity](Picture2.png)
+
 
 ## Data Analysis
 - Linear regression analysis of maltose standard curve
