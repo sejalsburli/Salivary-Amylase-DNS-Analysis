@@ -15,10 +15,6 @@ A maltose standard curve was constructed and spectrophotometric absorbance value
 ## Maltose Standard Curve
 ![Standard Curve](maltose_standard_curve_DNS.png)
 
-## Salivary Amylase Activity
-![amylase_bar_graph.png](Picture2.png)
-
-
 ## Data Analysis
 - Linear regression analysis of maltose standard curve
 - Visualization using scatter plot and bar graph
